@@ -1,6 +1,6 @@
 ### Welcome to FireChain's Realm! 🔥🔗
 
-Greetings, fellow blockchain enthusiasts! This is Firehain, your guide through the fiery depths of decentralized innovation. Step into FireChain's domain, where we ignite ideas, forge solutions, and unleash the power of blockchain technology!
+Greetings, fellow blockchain enthusiasts! This is FireChain, your guide through the fiery depths of decentralized innovation. Step into FireChain's domain, where we ignite ideas, forge solutions, and unleash the power of blockchain technology!
 
 🔥 **Igniting Innovation:** At FireChain, we're on a mission to ignite innovation within the blockchain space. From crafting groundbreaking decentralized applications to pioneering new solutions, we're constantly pushing the boundaries of what's possible.
 
